@@ -1,0 +1,64 @@
+.container {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.title-with-icon {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #444;
+}
+
+.input-box {
+  width: 90%;
+  max-width: 500px;
+  padding: 12px;
+  margin: 10px auto;
+  border: 2px solid #ffd9e1;
+  border-radius: 10px;
+  font-size: 16px;
+  display: block;
+}
+
+.generate-button {
+  background-color: #ffb6c1;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 25px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.output-box {
+  margin-top: 30px;
+  background-color: #fff0f5;
+  padding: 25px;
+  border-radius: 15px;
+  text-align: left;
+  font-size: 17px;
+  line-height: 1.7;
+  white-space: pre-wrap;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.regenerate-button {
+  background-color: #f3a6b3;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+

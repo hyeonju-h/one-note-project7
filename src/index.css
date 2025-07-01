@@ -1,0 +1,18 @@
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: "Pretendard", sans-serif;
+  background-color: #fffaf5;
+  color: #333;
+}
+
+input, button, select {
+  font-family: inherit;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+button {
+  cursor: pointer;
+}

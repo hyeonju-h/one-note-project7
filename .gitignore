@@ -1,0 +1,20 @@
+# Windows
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
+AppData/
+.vscode/
+node_modules/
+dist/
+.env
+.DS_Store
+*.exe
+*.dll
+*.db
+*.bat
+
+# 기타 불필요 폴더 추가
+My Documents/
+Videos/
+OneDrive/
