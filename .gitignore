@@ -6,7 +6,6 @@ Thumbs.db
 AppData/
 .vscode/
 node_modules/
-dist/
 .env
 .DS_Store
 *.exe
